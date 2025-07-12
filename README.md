@@ -1,46 +1,55 @@
-🌍 Travel Recommender System
-A hybrid approach for personalized travel destination recommendations
+# 🌍 Travel Recommender System
 
-✒️ Project Information
-Project Title: 🔧 A Tourism Destination Recommender System Based on Fuzzy Clustering and Collaborative Filtering Using Real-Time and Static Destination Features
+## A Hybrid Approach for Personalized Travel Destination Recommendations
 
-Course: 🔧 Real-time embedded systems course
+---
 
-Authors: 🔧 Mohammadparsa Afshar, Ali Rasouli
+### ✒️ Project Information
 
-📁 Files
-Travel Recommender System.ipynb: Main Jupyter Notebook with code and analysis.
-Title and Abstract.pdf: A brief summery of the project 
-* All datasets used in this project are included in the datasets/ folder of this repository.
+- **Project Title:**  
+  🔧 *A Tourism Destination Recommender System Based on Fuzzy Clustering and Collaborative Filtering Using Real-Time and Static Destination Features*
 
-🚀 Features
-Data preprocessing and exploration
+- **Course:**  
+  🔧 Real-time and Embedded Systems Course, University of Tehran
 
-User-item interaction analysis
+- **Authors:**  
+  🔧 Mohammadparsa Afshar, Ali Rasouli
 
-Fuzzy clustering for grouping similar destinations or user behaviors
+---
 
-Recommendation engine using Surprise library
+### 📁 Files
 
-Hybrid filtering approach
+- **Travel Recommender System.ipynb**  
+  Main Jupyter Notebook with code and analysis.
 
-Simple visualizations of data and results
+- **Title and Abstract.pdf**  
+  A brief summary of the project.
 
-🧰 Tools & Libraries
+- **Datasets:**  
+  All datasets used in this project are included in the `datasets/` folder of this repository.
 
-Pandas
+---
 
-NumPy
+### 🚀 Features
 
-Matplotlib
+- Data preprocessing and exploration  
+- User-item interaction analysis  
+- Fuzzy clustering for grouping similar destinations or user behaviors  
+- Recommendation engine using Surprise library  
+- Hybrid filtering approach  
+- Simple visualizations of data and results  
 
-Scikit-learn 
+---
 
-Scikit-fuzzy
+### 🧰 Tools & Libraries
 
-Surprise 
-
-Jupyter Notebook
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
+- Scikit-fuzzy  
+- Surprise  
+- Jupyter Notebook
 
 
 
